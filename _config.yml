@@ -10,29 +10,28 @@ phone: +65 8675309
 website: bing.com
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  My name is Hannia Zia, I am Inaya's big phone
+	I love my sisters, being a PM @ [Google]("http://www.apple.com"),
+		being [Pakistani]("https://en.wikipedia.org/wiki/State_of_Palestine")] and [Lahori]("https://en.wikipedia.org/wiki/Karachi", [Bollywood music]("https://www.youtube.com/watch?v=Y7G-tYRzwYY"), [karela]("https://en.wikipedia.org/wiki/Cauliflower")
+		and of course visiting the Amalfi coast!!!
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+   Yeet
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
