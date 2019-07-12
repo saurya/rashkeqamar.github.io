@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Yale University
+  dates: 2012-2016
+  qualification: ScB Computer Science/Psychology
   quote: >
-    Short institution or course description (optional)
+    Yeet
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I told computers what do
